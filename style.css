@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(169, 199, 211);
+}
+ul {
+    display: inline;
+}
+/* https://developer.mozilla.org/ru/docs/Web/CSS/Comments */
+#title{
+    border: 2px solid red;
+    width: 500px;
+    height: 100vh;
+}
